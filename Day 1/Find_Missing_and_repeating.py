@@ -16,3 +16,5 @@ now,
 Missing no.: sum of numbers from 1 to n - sum of given list after eleminating repeating digit(a)
 Repeating no.: sum of given list - sum of given list after eleminating repeating digit(a)
 '''
+
+# contributed by - @codeash14

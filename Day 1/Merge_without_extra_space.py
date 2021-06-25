@@ -39,3 +39,5 @@ class Solution:
                 arr1[j],arr2[0]=arr2[0],arr1[j]
                 picknput(arr2,m)
                 #print(arr1,arr2)
+
+# contributed by - @codeash14

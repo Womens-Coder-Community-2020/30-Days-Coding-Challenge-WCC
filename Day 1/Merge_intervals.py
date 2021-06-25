@@ -21,3 +21,5 @@ class Solution:
 # 3. if yes then merge interval
 # 4. else store p in ans and update p
 # 5. Do this with all interval and then store last interval and return ans
+
+# contributed by - @codeash14

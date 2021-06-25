@@ -39,3 +39,6 @@ class Solution:
         nums.extend([2]*pos2)
         del nums[0:l]
         
+
+
+# contributed by - @codeash14

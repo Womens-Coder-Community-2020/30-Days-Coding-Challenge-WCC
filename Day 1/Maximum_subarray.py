@@ -12,4 +12,6 @@ class Solution:
                 if s<0:
                     s=0
         return msum
+
+# contributed by - @codeash14
             

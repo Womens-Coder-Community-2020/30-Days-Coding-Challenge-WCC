@@ -35,3 +35,5 @@ def findDuplicate(self, nums: List[int]) -> int:
             else:
                 a |= 1 << num
 
+# contributed by - @codeash14
+
